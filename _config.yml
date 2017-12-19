@@ -1,41 +1,41 @@
 # Site wide configuration
 
-title: Site Title
+title: Deondre Harris 
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Deondre Harris 
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
-  # Do not include the @ symbol in your Twitter username
-  twitter: #username
-  linkedin: #username
-  github: #username
+  bio: A college student and student assistant at the UNLV libraries 
+  email: deondre.harris
+  # Do not include the @ symbol in your Twitter deondreh77
+  twitter: #deondreh77
+  linkedin: #deondreh77
+  github: #deondreh77
   orcid: # ID Number (ex. 0000-0000-0000-0000)
-  researchgate: #username
-  mendeley: #username
+  researchgate: #deondreh77
+  mendeley: #deondreh77
   google:
-    plus: #username
+    plus: #deondreh77
     analytics:
     verify:
     scholar: #id
-  facebook: #username
-  instagram: #username
+  facebook: #deondreh77
+  instagram: #deondreh77
   bing-verify:
   stackoverflow: #123456/username from a "http://stackoverflow.com/users/123456/username" link
-  xing: #username
-  lastfm: #username
-  tumblr: #username
-  pinterest: #username
-  foursquare: #username
-  steam: #username
-  dribbble: #username
-  youtube: #username
-  soundcloud: #username
-  weibo: #username
+  xing: #deondreh77
+  lastfm: #deondreh77
+  tumblr: #deondreh77
+  pinterest: #deondreh77
+  foursquare: #deondreh77
+  steam: #deondreh77
+  dribbble: #deondreh77
+  youtube: #deondreh77
+  soundcloud: #deondreh77
+  weibo: #deondreh77
   flickr: #username
   codepen: #username
   disqus-shortname:
